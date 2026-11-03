@@ -1,0 +1,10 @@
+*.exe
+game_of_life
+
+*.o
+obj/
+
+.vscode/
+.idea/
+*.suo
+*.user
